@@ -5,6 +5,7 @@
 #include <math.h>  
 using namespace std;
 
+//Esta clase crea una tabla y la modifica de acuerdo a los valores de index y valor actual de T o N respectivamente. 
 class BHT {
     //instancias privadas
     public:
